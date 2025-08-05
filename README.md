@@ -102,3 +102,9 @@ It showcases the power of Naive Bayes in Natural Language Processing (NLP) tasks
 The notebook includes all code, outputs, and visualizations for easy understanding and reproducibility.
 
 The final version is suitable for uploading to GitHub or submitting as part of an internship deliverable.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/485858fe-419a-4bd6-a3f5-d4c0675e8fa6)
+
+![Image](https://github.com/user-attachments/assets/cfab6093-2934-43b8-a05c-6364d0c302f1)
